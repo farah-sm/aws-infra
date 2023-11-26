@@ -77,5 +77,5 @@ for obj in objects.get('Contents', []):
                 else:
                     print("No zip files found.")
                 
-                # Stop the loop when the first DataFeedTaskId is found
-                break
+                # # Stop the loop when the first DataFeedTaskId is found
+                # break
